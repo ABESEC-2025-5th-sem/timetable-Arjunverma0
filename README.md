@@ -32,48 +32,48 @@
         </tr>
         <tr>
             <td>Monday</td>
-            <td>Math</td>
-            <td>Java</td>
-            <td>OS</td>
+            <td>FSD</td>
+            <td>FSD</td>
+            <td>BCS055</td>
             <td>Break</td>
-            <td>Python</td>
-            <td>DSA</td>
+            <td>BCS501</td>
+            <td>ML</td>
         </tr>
         <tr>
-            <td>Tuesday</td>
-            <td>OS</td>
-            <td>Math</td>
-            <td>Java</td>
+            <td>Monday</td>
+            <td>FSD</td>
+            <td>FSD</td>
+            <td>BCS055</td>
             <td>Break</td>
-            <td>Python</td>
-            <td>DSA</td>
+            <td>BCS501</td>
+            <td>ML</td>
         </tr>
-        <tr>
-            <td>Wednesday</td>
-            <td>Python</td>
-            <td>DSA</td>
-            <td>Math</td>
+         <tr>
+            <td>Monday</td>
+            <td>FSD</td>
+            <td>FSD</td>
+            <td>BCS055</td>
             <td>Break</td>
-            <td>OS</td>
-            <td>Java</td>
+            <td>BCS501</td>
+            <td>ML</td>
         </tr>
-        <tr>
-            <td>Thursday</td>
-            <td>Java</td>
-            <td>OS</td>
-            <td>Python</td>
+       <tr>
+            <td>Monday</td>
+            <td>FSD</td>
+            <td>FSD</td>
+            <td>BCS055</td>
             <td>Break</td>
-            <td>Math</td>
-            <td>DSA</td>
+            <td>BCS501</td>
+            <td>ML</td>
         </tr>
-        <tr>
-            <td>Friday</td>
-            <td>DSA</td>
-            <td>Math</td>
-            <td>OS</td>
+       <tr>
+            <td>Monday</td>
+            <td>FSD</td>
+            <td>FSD</td>
+            <td>BCS055</td>
             <td>Break</td>
-            <td>Python</td>
-            <td>Java</td>
+            <td>BCS501</td>
+            <td>ML</td>
         </tr>
     </table>
 </body>
